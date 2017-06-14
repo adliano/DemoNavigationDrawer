@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/inbox"
+            android:title="@string/inbox"
+            android:icon="@drawable/inbox"/>
+
+        <item
+            android:id="@+id/starred"
+            android:title="@string/starred"
+            android:icon="@drawable/star"/>
+
+        <item
+            android:id="@+id/mail"
+            android:title="@string/email"
+            android:icon="@drawable/email"/>
+
+        <item
+            android:id="@+id/drafts"
+            android:title="@string/drafts"
+            android:icon="@drawable/drafts"/>
+
+    </group>
+
+    <item android:title="@string/subheader">
+
+        <menu>
+
+            <item
+                android:id="@+id/allMail"
+                android:title="@string/all_mail"
+                android:icon="@drawable/allmail"/>
+
+            <item
+                android:id="@+id/trash"
+                android:title="@string/trash"
+                android:icon="@drawable/delete"/>
+
+            <item
+                android:id="@+id/span_id"
+                android:title="@string/span"
+                android:icon="@drawable/span"/>
+
+            <item
+                android:id="@+id/myandroid"
+                android:title="@string/android"
+                android:icon="@drawable/android_bridge"/>
+
+            <item
+                android:id="@+id/ubuntu"
+                android:title="@string/ubuntu"
+                android:icon="@drawable/ubuntu"/>
+
+
+        </menu>
+
+    </item>
+
+</menu>

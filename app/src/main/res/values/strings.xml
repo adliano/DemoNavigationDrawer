@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DemoNavigationDrawer</string>
+    <string name="image_icon_for_header">image icon for header</string>
+    <string name="adliano">Adliano</string>
+    <string name="example_example_com">example@example.com</string>
+    <string name="inbox">Inbox</string>
+    <string name="starred">Starred</string>
+    <string name="email">Email</string>
+    <string name="drafts">Drafts</string>
+    <string name="subheader">Subheader</string>
+    <string name="all_mail">All Mail</string>
+    <string name="trash">Trash</string>
+    <string name="span">Span</string>
+    <string name="open_drawer">Open Navigation Drawer</string>
+    <string name="close_drawer">Close Navigaion Drawer</string>
+    <string name="android">Android</string>
+    <string name="ubuntu">Ubuntu</string>
+</resources>
